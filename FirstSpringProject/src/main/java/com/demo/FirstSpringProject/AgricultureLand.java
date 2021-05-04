@@ -9,5 +9,6 @@ public class AgricultureLand implements Property {
 
   public void area() {
 	  System.out.println("Agriculture Land");
+	  System.out.println("hjkhkhkk Land");
   }
 }
